@@ -1,0 +1,41 @@
+# Ignore Python cache files
+*.pyc
+__pycache__/
+
+# Ignore environment variables file
+.env
+
+# Ignore Django database file
+db.sqlite3
+
+# Ignore static files
+/static/
+
+# Ignore system-specific files
+.DS_Store
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore translation files
+*.pot
+*.mo
+
+# Ignore temporary files
+*.swp
+*.swo
+*.swn
+*.bak
+*.orig
+*.tmp
+*.tmp.*
+*.swp
+
+# Ignore virtual environments
+.venv/
+env/
+venv/
